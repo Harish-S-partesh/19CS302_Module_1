@@ -1,4 +1,4 @@
-# EX 1 C program to initialize the value as 5.8 & display the same.
+[# EX 1 C program to initialize the value as 5.8 & display the same.
 ## DATE:
 ## AIM:
 To write a program to initialize the value as 5.8 & display the same.
@@ -25,3 +25,4 @@ RegisterNumber:
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
+](https://lms2.cse.saveetha.in/mod/assign/view.php?id=27114)
